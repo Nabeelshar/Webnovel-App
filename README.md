@@ -1,4 +1,5 @@
-# NovelDokusha
+# Webnovels
+# Download()
 Android web novel reader. Reader focused on simplicity, improving read immersion.
 Search from a large catalog of content, open your pick and just enjoy.
 
