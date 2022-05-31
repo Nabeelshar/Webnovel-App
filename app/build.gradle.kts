@@ -36,7 +36,7 @@ android {
         setProperty("archivesBaseName", "NovelDokusha_v$versionName")
     }
 
-    if (isSignBuild) signingConfigs {
+    if (false) signingConfigs {
         create("release") {
             val properties = Properties().apply {
                 load(localPropertiesFile.inputStream())
@@ -50,7 +50,7 @@ android {
 
     buildTypes {
 
-        if (isSignBuild) all {
+        if (false) all {
             signingConfig = signingConfigs["release"]
         }
 
