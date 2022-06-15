@@ -1,5 +1,5 @@
-# Webnovels
-# [Download](https://github.com/Nabeelshar/Webnovels/releases/tag/v1.6.1)
+# Webnovel App
+# [Download App](https://github.com/Nabeelshar/Webnovels/releases/tag/v1.6.1)
 Android web novel reader. Reader focused on simplicity, improving read immersion.
 Search from a large catalog of content, open your pick and just enjoy.
 
@@ -24,6 +24,12 @@ Book info | Book chapters
 ![](screenshots/book_info.png)  |  ![](screenshots/book_chapers.png)
 Reader | 
 ![](screenshots/reader.png)  |   
+
+## Sources
+ - MTLNovels
+ - Wuxiaworld
+ - Kissnovel
+ - Novelhall
 
 
 ## Tech stack
